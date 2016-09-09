@@ -1,8 +1,17 @@
 # Useful Packages for Atom
 ## Overview 
+This is a guide to installing useful packages for the Atom code editor.
 
 ## Installing Packages from the Command Line
-To install 
+1. Go to `.atom` directory
+```
+cd .atom
+```
+
+2. Use atom package manager to install desired package
+```
+apm install <package.name>
+```
 
 ## Languages
 
@@ -28,28 +37,6 @@ nvatom - the note taking tool I showed you. I bind to F5 for new note. Does requ
 
 autocomplete-bibtex - setup to autocomplete bibtex citations. Good for quick notes.
 figlet - convert any text to ascii art
-
- ____   __ __  _____ _____
-|    \ |  T  T/ ___// ___/
-|  D  )|  |  (   \_(   \_
-|    / |  |  |\__  T\__  T
-|    \ |  :  |/  \ |/  \ |
-|  .  Yl     |\    |\    |
-l__j\_j \__,_j \___j \___j
- _       ___   __ __    ___  _____
-| T     /   \ |  T  |  /  _]/ ___/
-| |    Y     Y|  |  | /  [_(   \_
-| l___ |  O  ||  |  |Y    _]\__  T
-|     T|     |l  :  !|   [_ /  \ |
-|     |l     ! \   / |     T\    |
-l_____j \___/   \_/  l_____j \___j
-  ____  ______   ___   ___ ___
- /    T|      T /   \ |   T   T
-Y  o  ||      |Y     Y| _   _ |
-|     |l_j  l_j|  O  ||  \_/  |
-|  _  |  |  |  |     ||   |   |
-|  |  |  |  |  l     !|   |   |
-l__j__j  l__j   \___/ l___j___j
 
 language-markdown - as above
 markdown-preview-plus - instantly preview markdown
