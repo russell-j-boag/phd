@@ -47,8 +47,7 @@ When used with the Mendeley browser plug-in, [`Mendeley`](https://www.mendeley.c
 
 # Data Analysis and Visualisation
 ## R
-Flexible platform for scientific computing and data analysis, with seriously
-powerful data visualisation capabilities.
+Flexible platform for scientific computing and data analysis, with seriously powerful data visualisation capabilities.
 
 [`Get R here`](https://www.r-project.org/)
 
