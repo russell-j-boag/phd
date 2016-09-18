@@ -1,32 +1,56 @@
 # To Do...
-### ATC Experiment 2.0:
-- Put copies of undergrad pool atc-lab files (repeats) on lab comps
-- Print NASA-TLX x100
-- Print NASA-TLX x100
-- Print NASA-TLX x100
-- Re-extract atc.pilot data from raw
+
+## UTAS Trip December 7th to 21st
+
+- Confirm details with AH
+- Book flights
+- Book Melbourne accommodation for NYE
+
+
+## AMPC 2017
+- Write abstract
+- Submit application
+
+
+
+## ATC Experiment 2.0:
+
+- Find NASA-TLX forms for EXCLUDED participants and mark with X
+
+- Re-extract PILOT data from raw
+
+- Re-combine individual subject data into group data file for A1.1
+
 - Email week 7 IO participant details to SL
 - Email week 8 IO participant details to SL
 - Email week BREAK IO participant details to SL
 - Email week 9 IO participant details to SL
 - Email week 10 IO participant details to SL
+
 - Find AV instructions in PACT.zip
 
-### GitHub:
-- Save pandoc conversion snippet to github
+- Print NASA-TLX x75
 
-### PhD:
+- Fast-file-rename raw logs for PILOT
+- Fast-file-rename raw logs for A1.1
+- Fast-file-rename raw logs for A1, A2, A3, A4
+
+
+## PhD:
 - Fix Markdown on PhD.Proposal document
 
-### Machine Learning:
+
+## Machine Learning:
 - Test Weka
 
-### Add to Open Source Guide:
+
+## Add to Open Source Guide:
 - NP++
 - ssh
 - PuTTY
 - tmux
 
-### Google Drive:
+
+## Google Drive:
 - Tidy up atc folder names
-- Remove in-folder atc.lab versions from p folders
+
