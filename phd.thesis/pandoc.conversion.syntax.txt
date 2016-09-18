@@ -1,0 +1,1 @@
+pandoc input_file.md -o output_file.pdf
